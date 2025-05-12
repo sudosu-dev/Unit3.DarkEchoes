@@ -1,0 +1,12 @@
+.watch-now {
+  display: block;
+  padding: 5px 15px;
+  font-size: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.details {
+  margin-top: 4em;
+}

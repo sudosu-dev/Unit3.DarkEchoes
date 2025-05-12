@@ -1,0 +1,18 @@
+.roster-list {
+  list-style: none;
+}
+
+.roster-list-item {
+  padding: 10px 25px;
+  border-bottom: 1px solid grey;
+}
+
+.roster-list-item:last-of-type {
+  border-bottom: none; /* Or border-bottom: 0; */
+}
+
+.roster-list-item:hover,
+.roster-list-item:focus {
+  background-color: gray;
+  color: black;
+}
