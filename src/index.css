@@ -16,8 +16,13 @@ body {
 
 .roster {
   padding: 0 2em;
+  flex-basis: 350px;
+  flex-shrink: 0;
 }
 
 .details {
   padding: 0 2em;
+  padding-top: 3em;
+  width: 634px;
+  flex-shrink: 0;
 }
